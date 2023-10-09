@@ -1,0 +1,31 @@
+html {background-image: url("../imagens/maxresdefault2.jpg");
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+color: white;}
+
+hr {border-color: firebrick;}
+
+figure {text-align: center;} 
+
+fieldset {border: 5px solid firebrick;
+background-color: rgba(0, 0, 0, 0.349);}
+
+legend {text-align: center;
+background-color: rgba(0, 0, 0, 0.349);
+border: 2px solid firebrick;
+font-size: 18px;
+border-radius: 25px;} 
+
+a {color:lightgray;}
+
+form {font-family: 'Times New Roman', Times, serif;
+font-size: 25px;}
+
+@font-face {font-family: "teenwolf";
+src: url("../fontes/FoxspeedDemoRegular.ttf");}
+
+#h1 {text-align: center;
+background-color: rgba(0, 0, 0, 0.349);
+font-family: teenwolf;
+font-size: 35px;}

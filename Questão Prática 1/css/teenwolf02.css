@@ -1,0 +1,13 @@
+@font-face {
+    font-family:"teenwolf" ;
+    src: url("../fontes/FoxspeedDemoRegular.ttf");
+}
+
+h1 { background-color:rgb(71, 69, 69);
+text-align:center; 
+font-family: teenwolf;
+font-size:80px;
+font-weight: bold;
+font-style: italic;
+line-height: 30px;
+}
