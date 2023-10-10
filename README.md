@@ -1,4 +1,4 @@
-# TeenWolf
+# Teen Wolf
 
 Este site estático foi desenvolvido quando eu estava no primeiro ano do meu curso de TII. 
 
